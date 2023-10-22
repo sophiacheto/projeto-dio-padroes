@@ -11,7 +11,7 @@ public class Teste {
         turtle.setDirection(horizontal);
         turtle.mover(5);
         turtle.setDirection(vertical);
-        turtle.mover(4);
+        turtle.mover(7);
     }
     
 }
